@@ -14,7 +14,7 @@ dataclasses-json==0.6.7
 debugpy==1.8.5
 decorator==5.1.1
 distro==1.9.0
-duckduckgo_search==6.2.11
+duckduckgo_search==6.2.12
 executing==2.1.0
 frozenlist==1.4.1
 greenlet==3.0.3
